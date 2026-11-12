@@ -12,6 +12,7 @@
 - **Capture et lien vers votre pull request:**
   - **Lien :** https://github.com/albanpch/TP_GitHub-Projects_CI-CD/pull/2
 ![vert](/image/image1.png)
+![rouge](/image/image2.png)
 
 - **Analyse de la régression et correction :**
   - **Nom du test en échec :** `test_add` (dans `tests/test_calculator.py`)
